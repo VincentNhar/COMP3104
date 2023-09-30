@@ -1,0 +1,16 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentNhar/COMP3104.git"
+  },
+  "keywords": ["devops","nodejs","express","web"],
+  "author": "Vincent Nhar Calonzo",
+  "license": "ISC"
+}
